@@ -6,6 +6,7 @@ public class Prodotto {
 	int quantitaDisponibile;
 	int prezzo;
 	
+
 	
 	
 	public String getCodiceProdotto() {
